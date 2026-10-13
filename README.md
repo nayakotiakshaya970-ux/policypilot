@@ -38,7 +38,7 @@ streamlit run app.py
 ## Tech stack
 Python, ChromaDB, pypdf, Streamlit, [Gemini API / Claude API]
 
-## Live demos
+## Live demo
 [https://policypilot-akshaya.streamlit.app]
 
 ## Future improvements
