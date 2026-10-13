@@ -38,6 +38,9 @@ streamlit run app.py
 ## Tech stack
 Python, ChromaDB, pypdf, Streamlit, [Gemini API / Claude API]
 
+## Live demos
+[https://policypilot-akshaya.streamlit.app]
+
 ## Future improvements
 - LLM-based grading for the accuracy test
 - OCR support for scanned PDFs
