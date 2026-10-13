@@ -39,7 +39,7 @@ streamlit run app.py
 Python, ChromaDB, pypdf, Streamlit, Gemini API
 
 ## Live demo
-[https://policypilot-akshaya.streamlit.app]
+https://policypilot-akshaya.streamlit.app
 
 ## Future improvements
 - LLM-based grading for the accuracy test
