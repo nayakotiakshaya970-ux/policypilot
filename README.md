@@ -25,8 +25,8 @@ so when the answer isn't there.
 4. The LLM answers using only those chunks, with citations
 
 ## Results
-- Accuracy on my 13-question test set: 92%
-- Test documents:a 4-page sample company policy handbook (fictional), written to test citations, follow-ups and refusals
+- Accuracy on my 13-question test set: 92 %
+- Test documents: a 4-page sample company policy handbook (fictional), written to test citations, follow-ups and refusals
 - Limitation: the check is keyword-based, so correct answers phrased
   differently can be marked wrong
 
